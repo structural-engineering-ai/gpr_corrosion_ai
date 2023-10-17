@@ -1,5 +1,5 @@
 """
-  This is the radar data that had been clipped from 16 scans of a bridge deck - only on bridge.  The data ranges in shape from [512, 10] to [512,12] since it was manually cut from a larger radar .DTZ file. Data is in raw form and has not been normalized. Rebar in the "NG" file folder was clipped from larger scans and was designated as being corroded by field inspection. Rebar in the "OK" file folder was determined to be 'not corroded' by field inspection.
+  This is the radar data that had been clipped from 16 scans of a bridge deck - only on bridge. Files are numpy arrays that had been converted from .dtz radar files. The data ranges in shape from [512, 10] to [512,12] since it was manually cut from a larger radar .DTZ file. Data is in raw form and has not been normalized. Rebar in the "NG" file folder was clipped from larger scans and was designated as being corroded by field inspection. Rebar in the "OK" file folder was determined to be 'not corroded' by field inspection.
 
-  There are 276 samples in each folder.
+  There are 279 samples in the OK folder, and 278 samples in the NG folder.
 """
