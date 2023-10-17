@@ -1,5 +1,5 @@
 
-#  This is the radar data that had been clipped from 16 scans of a bridge deck - only on bridge. 
+#  This is the radar data that had been clipped from 16 scans of a bridge deck - only one bridge. 
 #  Files are numpy arrays that had been converted from .dtz radar files. The data ranges in shape from 
 #  [512, 10] to [512,12] since it was manually cut from a larger radar .DTZ file. Data is in raw form 
 #  and has not been normalized. Rebar in the "NG" file folder was clipped from larger scans and was 
