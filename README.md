@@ -4,7 +4,7 @@ The model was made using pytorch <img src="https://cdn.jsdelivr.net/gh/devicons/
 
 #### Notes:
 1. Paths in the model to the data will need to be manually updated prior to running.
-2.Models generally test around 60 - 85% with 1000 epochs.
+2. Models generally test around 60 - 85% with 1000 epochs.
 
 #### License:
 MIT License
